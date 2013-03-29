@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
 # Author  : Kirubakaran Athmanathan
-# Created : Version 1 - Mar 29, 2013
+# Created : Mar 29, 2013
+
+# Highlights multiple string matches in different colors
 
 import os
 import sys
