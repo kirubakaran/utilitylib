@@ -1,4 +1,4 @@
-function conlog(x) {
+function cl(x) {
   if (typeof(console) != "undefined") {
     console.log(x);
   }
